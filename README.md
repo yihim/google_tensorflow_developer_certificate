@@ -1,1 +1,1 @@
-These are the notebooks that I have been practiced before attempting to take the exam.
+Here are the notebooks I've worked on as part of my preparation before taking and passing the exam.
